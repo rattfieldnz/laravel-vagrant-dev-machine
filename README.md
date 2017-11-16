@@ -6,7 +6,7 @@ A [Vagrant](https://www.vagrantup.com/)/[VirtualBox](https://www.virtualbox.org/
 
 This is an adaptation of another similar repository I created for Silverstripe-based development, which can be accessed at [https://github.com/rattfieldnz/silverstripe-vagrant-dev-machine](https://github.com/rattfieldnz/silverstripe-vagrant-dev-machine).
 
-This set-up was created on a Windows 10 host machine, with VirtualBox v5.1.22, Vagrant v2.0.0, and Git Bash (2.1.5). If you have a different host O.S (e.g. a Linux distro), feel free to contribute :).
+This set-up was created on a Windows 10 host machine, with VirtualBox v5.2.0, Vagrant v2.0.1, and Git Bash (2.1.5). If you have a different host O.S (e.g. a Linux distro), feel free to contribute :).
 
 Credit goes to Nicolaas Thiemen Francken from [Sunny Side Up Web Development](http://sunnysideup.co.nz/) for an [excellent well-documented set-up](http://silverstripe-webdevelopment.com/tricks/creating-a-development-machine/), and also to the following GitHub gists:
 
